@@ -25195,8 +25195,5 @@ data:
     ]
 kind: ConfigMap
 metadata:
-  creationTimestamp: "2022-08-23T08:29:03Z"
   name: dummy-large-cm
-  namespace: default
-  resourceVersion: "48577"
-  uid: edc7c12b-b291-4f25-bb5a-f3503775c79b
+  namespace: openshift-gitops
